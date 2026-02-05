@@ -403,7 +403,7 @@ Wave 3: 11 zombies, 1.30x speed/health
 
 - **Game Engine**: Pygame
 - **Language**: Python 3
-- **Author**: Expert Python Game Developer
+- **Author**: Ankush Kumar
 - **Style**: Clean, Professional, Beginner-Friendly
 - **Comments**: Simple Hinglish for easy understanding
 
